@@ -1,6 +1,6 @@
 # App deployed
 
-https://cra.link/deployment
+http://raf203.github.io/photo-port
 
 # Getting Started with Create React App
 
